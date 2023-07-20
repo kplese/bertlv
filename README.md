@@ -9,7 +9,7 @@ Package bertlv implements parsing and building of BER-TLV structures.
 
 Please note that this is not a complete implementation of the X.690 standard as it is agnostic about classes (Universal, Application, Context-specific, Private) and therefore does not check for correct encoding of tags/values.
 
-`go get github.com/skythen/bertlv`
+`go get github.com/kplese/bertlv`
 
 ## Parse
 
